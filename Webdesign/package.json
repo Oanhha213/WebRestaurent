@@ -1,0 +1,23 @@
+{
+  "name": "webdesign_it2_team4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w ./resources/scss/ -o ./assets/css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bachhsunkid/Webdesign_IT2_team4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bachhsunkid/Webdesign_IT2_team4/issues"
+  },
+  "homepage": "https://github.com/Bachhsunkid/Webdesign_IT2_team4#readme",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
